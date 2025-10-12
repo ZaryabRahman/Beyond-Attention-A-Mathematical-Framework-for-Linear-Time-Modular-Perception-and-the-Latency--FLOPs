@@ -53,21 +53,21 @@ Our paper includes comprehensive ablation studies to validate AFMP's design prin
 
 _Figure 4: Analysis of learned sparsity, showing an optimal accuracy regime (top-left) and the regularizing effect on training loss (top-right)._
 <p align="center">
-  <img src="path/to/your/figure4.png" width="700">
+  <img src="Data/sparsity-ablation-study-for-all-6-varients.png" width="700">
 </p>
 
 - **Sensitivity to Regularization Strength:** We demonstrate that performance is sensitive to the sparsity coefficient (λ), highlighting the need for a well-tuned balance between physical connectivity and optimization pressure.
 
 _Figure 5: Sensitivity analysis of the sparsity regularization coefficient, showing a clear performance peak at λ = 1e-4._
 <p align="center">
-  <img src="path/to/your/figure5.png" width="700">
+  <img src="Data/second-ablation-study-for-different-lambda-sparsity.png" width="700">
 </p>
 
 - **Hierarchical Top-Down Refinement:** Our final ablation study proves the value of the hierarchical refinement pass, a key architectural component that allows higher-level representations to correct and refine lower-level capsule states, leading to a significant accuracy gain.
 
 _Figure 6: Ablation of the hierarchical top-down refinement pass, demonstrating a clear performance improvement from the mechanism._
 <p align="center">
-  <img src="path/to/your/figure6.png" width="700">
+  <img src="Data/top-down-vs-no-top-down.pdf" width="700">
 </p>
 
 ---
@@ -86,13 +86,6 @@ Please see the individual notebooks for setup and execution instructions.
 
 ## Citation
 
-If you find this work useful in your research, please cite our paper:```bibtex
-@article{YourLastName2025Beyond,
-  title   = {Beyond Attention: Linear-Time Modular Perception and the Latency-FLOPs Dichotomy},
-  author  = {Your Name and Your Professor's Name and et al.},
-  journal = {Journal Name},
-  year    = {2025},
-  volume  = {vv},
-  pages   = {aaaaaa}
-}
-```
+It will be updated upon acceptance. Thankyou
+
+
