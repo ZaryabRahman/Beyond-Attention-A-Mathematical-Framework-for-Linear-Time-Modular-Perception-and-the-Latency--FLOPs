@@ -67,7 +67,7 @@ _Figure 5: Sensitivity analysis of the sparsity regularization coefficient, show
 
 _Figure 6: Ablation of the hierarchical top-down refinement pass, demonstrating a clear performance improvement from the mechanism._
 <p align="center">
-  <img src="Data/top-down-vs-no-top-down.pdf" width="700">
+  <img src="Data/top-down-vs-no-top-down.png" width="700">
 </p>
 
 ---
