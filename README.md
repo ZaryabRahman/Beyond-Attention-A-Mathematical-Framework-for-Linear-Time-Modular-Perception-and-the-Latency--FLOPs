@@ -17,10 +17,7 @@ Our central finding is the **Latency-FLOPs Dichotomy**, which reveals that FLOPs
 
 The Pareto frontier analysis on CIFAR-10 (Figure 3) clearly illustrates this disconnect. In the left panel (FLOPs), AFMP models are competitive. In the right panel (Latency), they exhibit a disproportionate increase in inference time, revealing the hardware's bias towards dense computations.
 
-_Figure 3: Pareto frontier analysis of AFMP efficiency on CIFAR-10, demonstrating the Latency-FLOPs Dichotomy._
-<p align="center">
-  <img src="Data/pareto_curves.pdf" width="700">
-</p>
+_Figure 3: Pareto frontier analysis of AFMP efficiency on CIFAR-10, demonstrating the Latency-FLOPs Dichotomy. [View PDF](Data/pareto_curves.pdf)_
 
 ---
 
