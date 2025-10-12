@@ -31,7 +31,7 @@ We introduce AFMP, a new class of architectures designed from first principles f
 
 _Figure 1: Comparison of a Standard Transformer's dense attention with AFMP's sparse predictive routing._
 <p align="center">
-  <img src="/Data/afmp_arc (6).png" width="700">
+  <img src="https://github.com/ZaryabRahman/Beyond-Attention-Linear-Time-Modular-Perception-and-the-Latency-FLOPs-Dichotomy/issues/1#issue-3506921165" width="700">
 </p>
 
 ---
