@@ -17,7 +17,7 @@ Our central finding is the **Latency-FLOPs Dichotomy**, which reveals that FLOPs
 
 The Pareto frontier analysis on CIFAR-10 (Figure 3) clearly illustrates this disconnect. In the left panel (FLOPs), AFMP models are competitive. In the right panel (Latency), they exhibit a disproportionate increase in inference time, revealing the hardware's bias towards dense computations.
 
-_Figure 3: Pareto frontier analysis of AFMP efficiency on CIFAR-10, demonstrating the Latency-FLOPs Dichotomy. [View PDF](Data/pareto_curves.pdf)_
+_Figure 3: Pareto frontier analysis of AFMP efficiency on CIFAR-10, demonstrating the Latency-FLOPs Dichotomy._ <p align="center"> <img src="Data/pareto_curves.png" width="700"> </p>
 
 ---
 
@@ -31,7 +31,7 @@ We introduce AFMP, a new class of architectures designed from first principles f
 
 _Figure 1: Comparison of a Standard Transformer's dense attention with AFMP's sparse predictive routing._
 <p align="center">
-  <img src="/Data/afmp_arc (6).pdf" width="700">
+  <img src="/Data/afmp_arc (6).png" width="700">
 </p>
 
 ---
@@ -41,7 +41,7 @@ We provide empirical evidence of AFMP's linear scalability in both memory and co
 
 _Figure 2: Scalability comparison of AFMP vs. DeiT. AFMP shows linear O(N) scaling in both memory (left) and time (right), while DeiT exhibits quadratic O(N²) scaling._
 <p align="center">
-  <img src="Data/multiscale_scalability_results_final (1).pdf" width="700">
+  <img src="Data/multiscale_scalability_results_final (1).png" width="700">
 </p>
 
 ---
