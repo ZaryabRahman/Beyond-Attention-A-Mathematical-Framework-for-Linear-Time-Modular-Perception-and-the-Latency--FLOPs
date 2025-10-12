@@ -15,8 +15,29 @@ We analyzed in two sections. First, we looked at the bottom-up predictive routin
 We performed all ablation experiments on the CIFAR-100 dataset \cite{krizhevsky2009learning}. As a baseline for comparison, we used a "Dense" version of AFMP. This variant uses the full static communication scaffold without any sparse gating, effectively making it a powerful, fully-connected graph neural network.
 """
 
+
+
+
+
+
+
+
+
 # Author : Zaryab Rahman
 # Data : 20/8/25
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 """## 0. Imports and Configuration
 
