@@ -72,14 +72,6 @@ _Figure 6: Ablation of the hierarchical top-down refinement pass, demonstrating 
 
 ---
 
-## How to Use This Repository
-
-This repository contains the code to reproduce the experiments from our paper.
-
-- **`AFME_v1_ablation_studies_(1).ipynb`:** A Jupyter Notebook to run the ablation studies from Section 7 (Figures 4, 5, and 6).
-- **`scalability_analysis.ipynb`:** (Optional: if you have one) A script to reproduce the scalability analysis from Section 5 (Figure 2).
-- **`pareto_frontier.ipynb`:** (Optional: if you have one) A script to generate the Pareto frontier plots from Section 6 (Figure 3).
-
 Please see the individual notebooks for setup and execution instructions.
 
 ---
