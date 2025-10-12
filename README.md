@@ -1,4 +1,4 @@
-# Beyond-Attention-Linear-Time-Modular-Perception-and-the-Latency-FLOPs-Dichotomy
+# Beyond Attention: A Mathematical Framework for Linear-Time Modular Perception and the Latency--FLOPs Dichotom
 
 This repository contains the official PyTorch implementation for the paper **"Beyond Attention: Linear-Time Modular Perception and the Latency-FLOPs Dichotomy"**. Our work introduces a novel, scalable neural network architecture called **Attention-Free Modular Perception (AFMP)** and uncovers a critical disconnect between theoretical compute (FLOPs) and real-world latency on modern hardware.
 
